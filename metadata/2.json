@@ -1,0 +1,11 @@
+{
+    "name": "Lamp 2",
+    "description": "My amazing Lamp 2",
+    "image": "https://ipfs.io/ipfs/bafkreihqubrfvvp3vzc7tmqamfbodvcevhmnpep6wg6hc3cyrdixkrn25e",
+    "attributes": [
+        {
+            "trait_type": "Lamp Type 2",
+            "value": "Classic"
+        }
+    ]
+}
